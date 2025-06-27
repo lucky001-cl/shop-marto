@@ -77,7 +77,7 @@ Follow clean coding practices and meaningful commit messages.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is Not licensed under the MIT License.
 
 ---
 
